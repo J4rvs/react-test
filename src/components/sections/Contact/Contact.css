@@ -1,0 +1,27 @@
+#contact {
+    height: 100vh;
+    padding-top: 180px;
+    background-image:
+        linear-gradient(
+            to right, 
+            #F2F4F1,
+            #F2F4F1 70%,
+            #DCE1DA 70%,
+            #DCE1DA 70%,
+            #DCE1DA 70%
+        );
+}
+
+#contact img {
+    width: 600px;
+}
+
+.contact-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact h2 {
+    margin: 0;
+}
