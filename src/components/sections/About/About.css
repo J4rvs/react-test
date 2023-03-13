@@ -1,0 +1,19 @@
+#about {
+    height: 100vh;
+}
+#about h1 {
+    margin: 0;
+}
+#about p {
+    margin-top: 30px;
+}
+
+.about-text {
+    padding-top: calc(100vh - 70vh);
+}
+
+#about svg {
+    position: absolute;
+    top: calc(200vh - 80vh);
+    left: 0;
+}
