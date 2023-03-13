@@ -1,0 +1,19 @@
+footer {
+    background-color: #949494;
+    height: 96px;
+}
+#footer-logo {
+    text-align: center;
+    width: 200px;
+    margin: auto;
+}
+#footer-img {
+    padding-top: 15px;
+}
+
+#footer-text {
+    padding-top: calc(5vh);
+    padding-left: calc(15vh);
+    justify-content: left;
+    color: #002C49;
+}
