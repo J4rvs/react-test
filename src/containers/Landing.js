@@ -10,13 +10,13 @@ import Footer from '../components/sections/Footer/Footer';
 function Landing() {
   return (
     <Fragment >
-        <NavBar />
-        <Home />
-        <About />
-        <Products />
-        <Services />
-        <Contact />
-        <Footer />
+      <NavBar />
+      <Home />
+      <About />
+      <Products />
+      <Services />
+      <Contact />
+      <Footer />
     </Fragment>
   );
 }

@@ -1,0 +1,46 @@
+#products {
+    height: 100vh;
+    background-image:
+        linear-gradient(
+            to right, 
+            #F2F4F1,
+            #F2F4F1 70%,
+            #DCE1DA 70%,
+            #DCE1DA 70%,
+            #DCE1DA 70%
+        );
+}
+
+#products-image {
+    background-image: url(sobre-ellos.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: calc(60%) calc(72vh);
+    height: 100vh;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-left: calc(20%);
+    padding-right: calc(20%);
+    padding-top: calc(14vh);
+    padding-bottom: calc(14vh);
+}
+
+#products-text {
+    background-color: #DB7093;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#products-text p {
+    max-width: 350px;
+}
+
+#products-text h2 {
+    margin: 0;
+}
+
+#products-text h6 {
+    margin: 0;
+}
