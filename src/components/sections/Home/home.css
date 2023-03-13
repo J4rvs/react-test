@@ -1,0 +1,47 @@
+header {
+    height: calc(100vh);
+    position: static;
+}
+.img-carousel {
+    height: calc(100vh);
+}
+.text-carousel {
+    position: absolute;
+    top: calc(100vh - 65vh);
+    left: calc(16vh);
+    z-index: 1000;
+    color: white;
+}
+#home h1 {
+    margin: 0;
+}
+#home h6 {
+    margin: 0;
+}
+#home-read-more {
+    border-radius: 50px;
+    height: 45px;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #DB7093;
+    border: 0;
+}
+#home .carousel-control-prev-icon {
+    display: none;
+}
+#home .carousel-control-next-icon {
+    display: none;
+}
+#home .carousel-indicators {
+    position: absolute;
+    top: calc(100vh - 30vh);
+    left: calc(16vh);
+    margin: 0px;
+    justify-content: left;
+}
+#home .carousel-indicators button{
+    border-radius: 100%;
+    height: 7px;
+    width: 7px;
+    margin: 5px;
+}
