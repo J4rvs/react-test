@@ -1,0 +1,13 @@
+#services {
+    height: 100vh;
+    padding-top: 200px;
+    background-image: url('./f4.jfif');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#services .accordion-header button {
+    background-color: #F8F8F8;
+    color: #5f6368;
+    font-weight: bold;
+}
